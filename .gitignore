@@ -1,0 +1,5 @@
+Debug/
+*.sln
+.vs
+WebServer/Debug/
+*.vcxproj*
